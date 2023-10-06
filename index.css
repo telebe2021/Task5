@@ -1,0 +1,201 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(0, 255, 68);
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+}
+.sol1{
+    width: 70px;
+    height: 25px;
+    background-color: antiquewhite;
+}
+.sag1{
+    width: 200px;
+    height: 30px;
+    align-items: center;
+    display: flex;
+    gap: 10px;
+
+}
+.sag1 div{
+    width: 200px;
+    height: 25px;
+    background-color: rgb(227, 255, 245);
+    
+}
+nav{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(216, 65, 125);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+nav .sol2{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(75, 167, 22);
+}
+nav .sag2{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(80, 255, 255);
+}
+section{
+    width: 100%;
+    height: 500px;
+    background-color: purple;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+}
+section .qol{
+    width: 300px;
+    height: 100px;
+    background-color: burlywood;
+}
+section .barmaq{
+    width: 900px;
+    height: 150px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+
+}
+section .barmaq div{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(200, 24, 24);
+   
+}
+.ciyin{
+    width: 100%;
+    height: 600px;
+    background-color:rgb(99, 93, 10);
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    gap: 220px;
+}
+.ciyin .sol3{
+    width: 700px;
+    height: 400px;
+    background-color:darkgray;
+}
+.ciyin .sag3{
+    width: 400px;
+    height: 300px;
+    background-color:darkgray;
+}
+div{
+    width: 100%;
+    height: 800px;
+    background-color:rgb(169, 102, 102);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+.mal{
+    width: 500px;
+    height: 100px;
+    background-color: aliceblue;
+}
+.mulk{
+    width:800px;
+    height: 600px;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  
+}
+.mulk div{
+    width: 300px;
+    height: 150px;
+    background-color: #FFD9D9;
+}
+div{
+    width: 100%;
+    height: 500px;
+    background-color: #e112bb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.divar{
+    width: 900px;
+    height: 450px;
+    background-color: #040301;
+}
+.diver{
+    width: 900px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+ 
+}
+.diver div{
+    width: 200px;
+    height: 150px;
+    background-color:#EFBFA8;
+
+
+}
+footer{
+    width: 100%;
+    height: 700px;
+    background-color:#669ed1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.ser{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.sol4{
+    width: 300px;
+    height: 300px;
+    flex: 1;
+}
+.sol4 div{
+        width:50%;
+        flex: 1;
+        height: 200px;
+        background-color: #FFD9D9;
+}
+.sag4{
+    width: 300px;
+    height: 300px;
+}
+.sag4 div{
+    width:50%;
+    height: 200px;
+     flex: 1;
+    background-color: rgb(162, 234, 234);
+}
+.son{
+    width:100% ;
+    height: 130px;
+    background-color: cadetblue;
+}
